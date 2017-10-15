@@ -1,0 +1,89 @@
+.main-color {
+	background-color: #D70EA1;
+	text-align: center;
+	margin-top: 220px;
+}
+
+.marge , .homer , .bart , .lisa , .maggie {
+	display: inline-block;
+	margin-left: 50px;
+	box-shadow: -40px -5px 30px 3px #DA7AC0;
+}
+.marge-hair {
+	width: 60px;
+	height: 120px;
+	background: #4036CB;
+}
+.head {
+	width: 60px;
+	height: 75px;
+	background: yellow;
+}
+.marge-body {
+	width: 60px;
+	height: 100px;
+	background: #60BD49;
+}
+.legs {
+  width: 60px;
+	height: 35px;
+	background: yellow;
+}
+.shoes {
+	width: 60px;
+	height: 35px;
+	background: red;
+}
+
+.h-wid-heig {
+width: 80px;
+height: 35px;
+}
+.size {
+width: 80px;
+height: 75px;
+}
+
+.homer-head {
+background: yellow;
+}
+
+.homer-beard {
+	background: #987C67;
+}
+
+.homer-body {
+	background: white;
+}
+
+.homer-legs {
+	background: #4036CB;
+}
+
+.homer-shoes {
+	background: grey;
+}
+
+.bart-size {
+	width: 60px;
+	height: 35px;
+}
+.bart-beard {
+	background: orange;
+}
+.body-shoes {
+	background: #4036CB;
+}
+.lisa-body {
+	background:red;
+	width: 60px; 
+	height: 75px;
+}
+.maggie-body {
+	width: 60px;
+	height: 75px;
+	background: #99CCFF;
+}
+
+
+
